@@ -1,5 +1,5 @@
-from Aditya import HANDLER
-from Aditya.__main__ import Sophia as bot
+from Genius-Userbot import HANDLER
+from Genius-Userbot.__main__ import Sophia as bot
 from config import OWNER_ID as OWN
 from pyrogram import filters
 import asyncio
